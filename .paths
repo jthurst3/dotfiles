@@ -1,0 +1,45 @@
+PATH
+    $HOME/usr/bin
+    $HOME/bin
+    $HOME/usr/sbin
+    $HOME/.local/bin
+    $HOME/screensaver
+    $HOME/.git-scripts
+    /u/cs254/bin
+    /usr/staff/bin
+    /usr/ucb
+    /bin
+    /sbin
+    /usr/bin
+    /usr/sbin
+    /usr/local/bin
+    /usr/local/sbin
+    /usr/grads/bin
+    /usr/games
+    /u/jkottas/bin
+    /u/jkottas/usr/bin
+
+LD_LIBRARY_PATH
+    $HOME/usr/lib64
+    $HOME/lib64
+    $HOME/usr/lib
+    ~jkottas/lib
+    /usr/lib64
+    /usr/lib
+
+PYTHONPATH
+    $HOME/yum-cli
+    $HOME/bin/lib/python2.7/site-packages
+
+MANPATH
+    $HOME/usr/share/man
+    /usr/man
+    /usr/share/man
+    /usr/local/share/man
+    /usr/grads/man
+    /u/cs254/share/man
+    /u/cs254/bin/share/man
+
+PERL5LIB
+    $HOME/perl5/lib/perl5
+

@@ -1,0 +1,36 @@
+[user]
+	name = Hassler Thurston
+	email = jthurst3@u.rochester.edu
+[alias]
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    # from Joel Kottas's dotfiles .gitconfig
+    df = diff
+    st = status
+    cm = commit -m
+    cma = !git add . && git commit -m
+    ss = stash
+    sp = stash pop
+    sl = stash list
+    cp = cherry-pick
+    last = log -1
+    br = branch
+    co = checkout
+    com = checkout master
+    cob = checkout branch
+    fa = fetch --all
+    pl = pull
+    ps = push
+    hub = "!f() { git clone \"git@github.com:$1/$2.git\"; }; f"
+
+
+
+[core]
+	excludesfile = ~/.gitignore
+[merge]
+	conflictstyle = diff3
+[pull]
+	rebase = true
+
+
+[push]
+	default = simple
