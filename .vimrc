@@ -87,11 +87,11 @@ inoremap <f14> <Esc>:w<Cr>
 vnoremap <f14> <Esc>:w<Cr>
 nnoremap <f14> <Esc>:w<Cr>
 
-" DON'T UN-COMMENT THIS LINE!!!
+" DON'T UN-COMMENT THESE LINES!!!
 "inoremap <Esc> <nop>
-cnoremap <Esc> <nop>
-vnoremap <Esc> <nop>
-onoremap <Esc> <nop>
+"cnoremap <Esc> <nop>
+"vnoremap <Esc> <nop>
+"onoremap <Esc> <nop>
 
 nnoremap U <C-r>
 nnoremap <C-r> <nop>
